@@ -10,7 +10,15 @@ redirect:
 <div class="container">
   <div class="row">
     <div class="col">
-        I have joined the Holden Lab in early 2024 as a visiting research fellow. My main research focus here is to understand the properties of bacterial membranes using physics-based theory, simulations, and single molecule experiments. Before coming here, my main research interest has been in understanding the physical principles of chromatin organization and dynamics at different scales and in different cell types. I received my PhD from IIT Bombay, where I investigated nucleosome positioning and dynamics, and how it affects the accessibility of DNA. Later, I joined the Institut Pasteur, Paris as a postdoc with Prof. Christophe Zimmer, where I expanded into genomics, bioinformatics, and polymer physics, developing models to elucidate genome organization across different contexts and species. Currently, I am employed at NCBS, Bangalore as a DST Inspire faculty fellow.
+        I joined the Holden Lab in early 2024 as a visiting research fellow and have since continued as a postdoctoral researcher. My current research focuses on understanding the Gram-positive pseudo-periplasm through physics-based theory, simulations, and single-molecule experiments.
+
+Prior to this, my primary research interest centered on uncovering the physical principles underlying chromatin organization and dynamics across different scales and cell types. I completed my PhD at IIT Bombay, where I studied nucleosome positioning and dynamics, and how these influence DNA accessibility.
+
+Following my PhD, I worked as a postdoctoral fellow at the Institut Pasteur in Paris with Prof. Christophe Zimmer. There, I expanded into genomics, bioinformatics, and polymer physics, developing models to investigate genome organization across various biological contexts and species.
+
+Subsequently, I was awarded the DST INSPIRE Faculty Fellowship and joined Prof. Madan Rao’s lab at NCBS, Bangalore. During this period, I worked on projects related to the DNA damage response and transcriptional induction.
+
+For a comprehensive list of my publications and citations, please refer to my Google Scholar profile: https://scholar.google.com/citations?hl=en&user=Cpzp9jcAAAAJ
     </div>
 
     <div class="col">
